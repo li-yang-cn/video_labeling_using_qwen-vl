@@ -21,6 +21,7 @@ def qwen_vl(filepath):
             },
             {
                 'text': '回答格式为:"天气；摄影类型；最多10个画面中的物品。按照我要求的格式对图片进行描述。对图片进行描述？回答格式为:"天气；摄影类型；最多10个画面中的物品"'
+                #'text': 'Answer format: "Weather, Photography Type, Less than 10 objects in the picture." You should describe the picture in my required format. Answer format: "Weather, Photography Type, Less than 10 objects in the picture."'
             },
         ]
     }]
