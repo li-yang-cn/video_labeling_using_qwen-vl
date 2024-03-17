@@ -1,0 +1,2 @@
+# video_labeling_using_qwen-vl
+ The AI Video Labeling Tool is a Python-based tool that scans video files in a specified directory, automatically captures keyframes, and uses the large language model qwen-vl from Tongyi Qianwen to describe the video content, eventually organizing the results into a CSV format database. This tool is designed to help photographers and video creators quickly label their video material library, thereby improving the efficiency of finding resources.
